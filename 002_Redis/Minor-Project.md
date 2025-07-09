@@ -17,7 +17,7 @@ A mini-system design project that demonstrates **horizontal WebSocket scaling** 
 
 ## 🔗 Mini-Project
 
-➡️ [System-Design-Journey Repository](https://github.com/YashPandey1405/System-Design-Journey)
+➡️ [Redis + Web-Sockets](https://github.com/YashPandey1405/SocketScaler-Redis)
 
 ---
 
