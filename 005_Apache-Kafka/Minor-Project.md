@@ -43,7 +43,7 @@ Use cases include:
 
 ## 🔗 Related System Design Projects
 
-➡️ [System-Design-Journey Repository](https://github.com/YashPandey1405/System-Design-Journey)
+➡️ [Apache-Kafka Project](https://github.com/YashPandey1405/RealTime-Kafka-Microservice)
 
 ---
 
