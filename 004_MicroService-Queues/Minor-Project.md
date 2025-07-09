@@ -24,7 +24,7 @@ A production-grade mini-project that demonstrates **job queue management using B
 
 ## 🔗 Related System Design Projects
 
-➡️ [System-Design-Journey Repository](https://github.com/YashPandey1405/System-Design-Journey)
+➡️ [BullMQ + Redis](https://github.com/YashPandey1405/BullMQ-QueueMaster)
 
 ---
 
